@@ -43,8 +43,11 @@ Here are some ideas to get you started:
 
 <br>
 
+#### [👉 항해99 실전프로젝트 Will Be 레포지토리](https://github.com/catalinakim/willbe-spring-backend)
+#### [👉 WillBe One-page Notion](https://hail-hail-3dd.notion.site/Will-BE-ca9a01e3574e43619e99192400b776dd)
 
 
+<br>
 <p align="center">
 
 </p>
